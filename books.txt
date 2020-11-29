@@ -1,0 +1,5 @@
+Harry Potter,JK Rowling,18,2
+Start With Why,Simon Sinek,10,1.5
+Programming With Python,John Smith,20,1.5
+Automate the Boring Stuff with Python,Al Sweigart,25,$3.0
+Python Crash Course,Eric Matthes,28,$2.0
